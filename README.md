@@ -1,4 +1,3 @@
-# Welcome to StackEdit!
 
 # Emailspammer
 Just an experiment to spam your best friend. Just run the file 'spam.py' from the command line. 
